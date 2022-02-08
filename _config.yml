@@ -5,7 +5,7 @@ title: 'Databioma'
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/databioma_logo.svg"
-  desktop_height: "86px"
+  desktop_height: "46px"
 
 collections:
   services:
